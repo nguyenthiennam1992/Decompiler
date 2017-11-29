@@ -1,0 +1,10 @@
+D:\Git_project\AppForCompile\AppForCompile\bin\Debug\AppForCompile.exe.config
+D:\Git_project\AppForCompile\AppForCompile\bin\Debug\AppForCompile.exe
+D:\Git_project\AppForCompile\AppForCompile\bin\Debug\AppForCompile.pdb
+D:\Git_project\AppForCompile\AppForCompile\obj\Debug\AppForCompile.csprojResolveAssemblyReference.cache
+D:\Git_project\AppForCompile\AppForCompile\obj\Debug\AppForCompile.Properties.Resources.resources
+D:\Git_project\AppForCompile\AppForCompile\obj\Debug\AppForCompile.csproj.GenerateResource.Cache
+D:\Git_project\AppForCompile\AppForCompile\obj\Debug\AppForCompile.csproj.CoreCompileInputs.cache
+D:\Git_project\AppForCompile\AppForCompile\obj\Debug\AppForCompile.exe
+D:\Git_project\AppForCompile\AppForCompile\obj\Debug\AppForCompile.pdb
+D:\Git_project\AppForCompile\AppForCompile\obj\Debug\AppForCompile.login_form.resources
